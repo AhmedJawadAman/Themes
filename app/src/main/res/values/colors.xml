@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Default Colors -->
+    <color name="default_top_layout_color">#FF9800</color>
+    <color name="default_bottom_layout_color">#FFC107</color>
+    <color name="default_text_color">#03A9F4</color>
+
+    <!-- Red Theme Colors -->
+    <color name="red_primary">#FF0000</color> <!-- Top Layout Color -->
+    <color name="red_primary_dark">#CC0000</color>
+    <color name="red_accent">#FF6666</color> <!-- Bottom Layout Color -->
+    <color name="red_text">#FF0000</color> <!-- Text Color -->
+
+    <!-- Black Theme Colors -->
+    <color name="black_primary">#000000</color> <!-- Top Layout Color -->
+    <color name="black_primary_dark">#333333</color>
+    <color name="black_accent">#666666</color> <!-- Bottom Layout Color -->
+    <color name="black_text">#000000</color> <!-- Text Color -->
+
+    <!-- Blue Theme Colors -->
+    <color name="blue_primary">#0000FF</color> <!-- Top Layout Color -->
+    <color name="blue_primary_dark">#000099</color>
+    <color name="blue_accent">#99CCFF</color> <!-- Bottom Layout Color -->
+    <color name="blue_text">#0000FF</color> <!-- Text Color -->
+
+
+    <color name="red_button">#FF4444</color>
+    <color name="black_button">#333333</color>
+    <color name="blue_button">#4444FF</color>
+</resources>

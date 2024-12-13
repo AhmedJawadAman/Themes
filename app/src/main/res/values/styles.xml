@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RedTheme" parent="Base.Theme.Themes">
+        <item name="customTopLayoutColor">@color/red_primary</item>
+        <item name="customBottomLayoutColor">@color/red_accent</item>
+        <item name="customTextColor">@color/red_text</item>
+    </style>
+
+    <!-- Black Theme -->
+    <style name="BlackTheme" parent="Base.Theme.Themes">
+        <item name="customTopLayoutColor">@color/black_primary</item>
+        <item name="customBottomLayoutColor">@color/black_accent</item>
+        <item name="customTextColor">@color/black_text</item>
+    </style>
+
+    <!-- Blue Theme -->
+    <style name="BlueTheme" parent="Base.Theme.Themes">
+        <item name="customTopLayoutColor">@color/blue_primary</item>
+        <item name="customBottomLayoutColor">@color/blue_accent</item>
+        <item name="customTextColor">@color/blue_text</item>
+    </style>
+</resources>
+

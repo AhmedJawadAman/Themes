@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.Themes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Fallback values -->
+        <item name="customTopLayoutColor">@color/default_top_layout_color</item>
+        <item name="customBottomLayoutColor">@color/default_bottom_layout_color</item>
+        <item name="customTextColor">@color/default_text_color</item>
+    </style>
+
+    <style name="Theme.Themes" parent="Base.Theme.Themes" />
+</resources>
